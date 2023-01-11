@@ -1,6 +1,0 @@
-site_url: 192.168.109.2
-
-id		: ctj0724
-password	: tarzan&star
-
-install chrome extensions: adblock, xblock.
