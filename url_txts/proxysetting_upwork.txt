@@ -1,0 +1,17 @@
+====================	1.   upwork
+1. install smartproxy chrome extension.
+2. 192.168.91.91
+3. port: 80
+4. user: ru
+5. pass: RussiaUser!@#
+
+	for hongkong: hk / HongkongUser!@#
+set the smartproxy "always enable"
+
+** set notification true on upwork website
+
+
+====================	2.   laborx 
+wallet addr: 0x4d0A21DCAe6afb82d3f916DCb80e1bb5Feb4360a
+1. install metamask chrome extension.
+2.

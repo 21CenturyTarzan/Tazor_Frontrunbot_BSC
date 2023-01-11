@@ -1,0 +1,39 @@
+My experiences range from creating both front-end blockchain applications to backend architecture design and implementation, smart contract development, testing, and development of dApps for Fintech and other industries that need the power of decentralization, tokenization, and smart contracts.
+Striving to be at the forefront of new modern cryptographic technologies surrounding NFTs, Blockchain, Games, Cryotocurrencies, and Collectibles.
+
+
+Technology I work with:
+
+- Blockchain
+* ERC20, ERC777, ERC223, ERC721, ERC1155 Token development
+* Sophisticated smart contracts or NFTs on leading blockchains such as Ethereum, Bitcoin, Binance, Stella, and Cardano.
+* NFT minting site, NFT marketplace with fashionable UI and IPFS in Ethereum, Cardano, Binance, Solana, etc.
+* Pancake/Uni Swap, Bots(Snipping, Front running, Arbitrage, Trading, etc).
+* Web3 and digital wallet integration like MetaMask, Phantom
+* Building DeFi & Dex
+
+- Frontend skills
+* Frontend frameworks: React.js/React Native, Angular/Ionic, Vue.js
+* Data visualization and Graphic : D3.js, Pixi.js, P5.js, Chart.js, Highcharts, Canvas, SVG
+
+- Backend skills
+* Backend frameworks: PHP, Java, Spring, Laravel, Python/Django, Node.js, Express, Go, GoLang
+* DB: Oracle, MongoDB, PostgreSQL, MySQL
+
+
+
+=================
+Hello
+I have 5 years experience with proficiency in NFT Marketplace |Smart Contract Development | Blockhain Development | ICO | Cryptocurrency | Smart Contract Audits| Public & Private Blockchain | dApps.
+
+I evaluate, develop and maintain blockchain and Cryptocurrency related products.
+• Smart-Contracts (Solidity, Truffle framework)
+• Smart Contracts Audits
+• NFT (Non Fungible Token) Marketplace Development
+• Crypto Coins Exchange Development
+• ICO & IDO Development with Created Token ( Coin )
+• Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)
+• DLT Apps & Private Blockchain Development
+• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
+
+Thank you
